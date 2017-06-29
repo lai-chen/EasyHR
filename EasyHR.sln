@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyHR.Data", "EasyHR.Data\EasyHR.Data.csproj", "{D849678E-BCAB-438F-A700-F1F19D37B5F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyHR.WebAPI", "EasyHR.WebAPI\EasyHR.WebAPI.csproj", "{A78FD128-E652-42DB-BC7B-82AB2F7F5E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyHR.Web", "EasyHR.Web\EasyHR.Web.csproj", "{9DEAADF1-B871-4342-988B-CD4D60115B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D849678E-BCAB-438F-A700-F1F19D37B5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D849678E-BCAB-438F-A700-F1F19D37B5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D849678E-BCAB-438F-A700-F1F19D37B5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D849678E-BCAB-438F-A700-F1F19D37B5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78FD128-E652-42DB-BC7B-82AB2F7F5E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78FD128-E652-42DB-BC7B-82AB2F7F5E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78FD128-E652-42DB-BC7B-82AB2F7F5E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78FD128-E652-42DB-BC7B-82AB2F7F5E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEAADF1-B871-4342-988B-CD4D60115B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEAADF1-B871-4342-988B-CD4D60115B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEAADF1-B871-4342-988B-CD4D60115B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEAADF1-B871-4342-988B-CD4D60115B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
